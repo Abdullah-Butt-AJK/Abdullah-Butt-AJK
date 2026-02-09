@@ -23,7 +23,8 @@ I'm actively seeking **internship or junior-level opportunities** where I can:
 - 🌱 Currently learning **Dart, Node.js, and Python**
 - 🤝 Open to **internships, junior roles, and mentorship**
 - 💬 Ask me about **C++, C, Java, C#, OOP, and basic DSA**
-- 📫 Reach me at **ab0943586@gmail.com**
+- 📫 Reach me at **abdullah.butt.dev3@gmail.com
+**
 - ⚡ Fun fact: **I may look serious, but I’m friendly and easy to work with 😄**
 
 ---

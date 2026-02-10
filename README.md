@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 About Me (Career-Focused)
+## 🎯 About Me
 
 I'm a **Computer Science student & aspiring software developer** with a strong foundation in **C, C++, Java**, and working knowledge of **C#**. I enjoy building logic-driven applications, understanding how systems work, and gradually moving toward **full-stack and mobile development**.
 
